@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gfuHVkpyVjHpkZZd13ce1Q" name="asignar_responsabilidades,_pshXUPaZEe2iw6e7ivTqDA" guid="-gfuHVkpyVjHpkZZd13ce1Q" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:02:16.166-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Asignacion de tareas especificas a ciertos roles, con el fin de garantizar el cumplimiento de&#xD;
+    estas y su buen desarrollo&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Definir quien es el responsable de ciertas tareas especificas&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

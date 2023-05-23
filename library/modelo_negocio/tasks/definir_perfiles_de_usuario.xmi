@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qWsGXYAmKKjhJqSTzkupXg" name="definir_perfiles_de_usuario,_wy8QMPg1Ee26HtDVNLdoRA" guid="-qWsGXYAmKKjhJqSTzkupXg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:48:06.876-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Establecimiento de los perfiles de los usuarios en el sistema, de forma clara y estructurada&#xD;
+&lt;/p></mainDescription>
+  <purpose>Identificar los posibles perfiles de los usuarios del sistema</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_4XD3wPjLEe2qVN-Nb94JYQ" guid="_4XD3wPjLEe2qVN-Nb94JYQ">
+    <resourceDescriptors xmi:id="_cTh-IPkkEe2vHpJ1ih__BQ" id="-hwmnMsFnopFmIbnXwzRqJQ" uri="tasks/construir_o_montar_la_aplicacion.xmi"/>
+    <resourceDescriptors xmi:id="_lqZm4PkkEe2vHpJ1ih__BQ" id="-_4yN3LBcRI4gi9sN73QE1A" uri="tasks/depuracion_y_seguimiento_de_errores.xmi"/>
+    <resourceDescriptors xmi:id="_tvMjwPkkEe2vHpJ1ih__BQ" id="-oIlMSw-16vZ_mmCTaSrQxw" uri="tasks/desplegar_la_aplicacion.xmi"/>
+    <resourceDescriptors xmi:id="_09vOEPkkEe2vHpJ1ih__BQ" id="-BrqqpRy2eAqqggnvXYGC5w" uri="tasks/preparar_servidor_de_azure.xmi"/>
+    <resourceDescriptors xmi:id="_B3STYPklEe2vHpJ1ih__BQ" id="-AI1_XEgQeONd9HTbqwYlIg" uri="tasks/realizar_pruebas_de_despliegue.xmi"/>
+    <resourceDescriptors xmi:id="_TzTssPkoEe2vHpJ1ih__BQ" id="-RVrooiCoHtWr3bigXwX1eg" uri="workproducts/aplicacion_final.xmi"/>
+    <resourceDescriptors xmi:id="_fUBW0PkoEe2vHpJ1ih__BQ" id="-eOOoBLUfUQngtgTEXJhPjw" uri="workproducts/informe_de_despligue.xmi"/>
+    <resourceDescriptors xmi:id="_b_gcoPkpEe2vHpJ1ih__BQ" id="-CPyUQlPthGRl_FBAi0BPxg" uri="roles/desarrollador_backend.xmi"/>
+    <resourceDescriptors xmi:id="_b_q0sPkpEe2vHpJ1ih__BQ" id="-iGYhUsMgs1IjWCoq8Bnl5Q" uri="roles/desarrollador_frontend.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_4XCpoPjLEe2qVN-Nb94JYQ" name="despliegue" guid="_4XCpoPjLEe2qVN-Nb94JYQ" presentationName="despliegue" briefDescription="En la presente disciplina se realiza el despliegue del software" changeDate="2023-05-22T13:10:51.666-0500">
+    <methodElementProperty xmi:id="__IE4kPjLEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpofjLEe2qVN-Nb94JYQ" name="Content" guid="_4XCpofjLEe2qVN-Nb94JYQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpovjLEe2qVN-Nb94JYQ" name="Categories" guid="_4XCpovjLEe2qVN-Nb94JYQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpo_jLEe2qVN-Nb94JYQ" name="Domains" guid="_4XCpo_jLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCppPjLEe2qVN-Nb94JYQ" name="Disciplines" guid="_4XCppPjLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCppfjLEe2qVN-Nb94JYQ" name="RoleSets" guid="_4XCppfjLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCppvjLEe2qVN-Nb94JYQ" name="WP Types" guid="_4XCppvjLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpp_jLEe2qVN-Nb94JYQ" name="Tools" guid="_4XCpp_jLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpqPjLEe2qVN-Nb94JYQ" name="StandardCategories" guid="_4XCpqPjLEe2qVN-Nb94JYQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpqfjLEe2qVN-Nb94JYQ" name="CustomCategories" guid="_4XCpqfjLEe2qVN-Nb94JYQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCpqvjLEe2qVN-Nb94JYQ" name="Hidden" guid="_4XCpqvjLEe2qVN-Nb94JYQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_4XCpq_jLEe2qVN-Nb94JYQ" name="Custom Categories" guid="_4XCpq_jLEe2qVN-Nb94JYQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4XCprPjLEe2qVN-Nb94JYQ" name="CoreContent" guid="_4XCprPjLEe2qVN-Nb94JYQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Wit-EPjMEe2qVN-Nb94JYQ" name="despliegue_del_software" guid="_Wit-EPjMEe2qVN-Nb94JYQ" presentationName="Despliegue del software" briefDescription="En el presnete proceso se prepara un servidor Azure, para posteriormente montar la aplicación, realizar pruebas y finalemtne desplegar la aplicación, por ultimo se le hace un seguimiento por potenciales errores.">
+          <methodElementProperty xmi:id="_WivMMPjMEe2qVN-Nb94JYQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_gxF2kPjMEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_hioBMPjMEe2qVN-Nb94JYQ" name="desarrollador_backend" guid="_hioBMPjMEe2qVN-Nb94JYQ" presentationName="Desarrollador Backend" briefDescription="Es un profesional que se enfoca en la creación y mantenimiento de la lógica y la funcionalidad detrás de la interfaz de usuario, se especializa en BD y servidores." responsibleFor="_iFOigPjNEe2qVN-Nb94JYQ _TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_otEOoPjMEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-CPyUQlPthGRl_FBAi0BPxg" href="uma://-CPyUQlPthGRl_FBAi0BPxg#-CPyUQlPthGRl_FBAi0BPxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qc0VAPjMEe2qVN-Nb94JYQ" name="desarrollador_frontend" guid="_qc0VAPjMEe2qVN-Nb94JYQ" presentationName="Desarrollador Frontend" briefDescription="Es un profesional que se enfoca en la creación de interfaces de usuario y la usabilidad que hay en ellas." responsibleFor="_iFOigPjNEe2qVN-Nb94JYQ _TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_skXQUPjMEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-iGYhUsMgs1IjWCoq8Bnl5Q" href="uma://-iGYhUsMgs1IjWCoq8Bnl5Q#-iGYhUsMgs1IjWCoq8Bnl5Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ti1DsPjMEe2qVN-Nb94JYQ" name="preparar_servidor_de_azure" guid="_ti1DsPjMEe2qVN-Nb94JYQ" presentationName="Preparar servidor de Azure" briefDescription="Se prepara el servidor Azure para poder realizar posteriormente el despliegue del software." performedBy="_hioBMPjMEe2qVN-Nb94JYQ _qc0VAPjMEe2qVN-Nb94JYQ" mandatoryInput="_iFOigPjNEe2qVN-Nb94JYQ" output="_TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_0ijO4PjMEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-BrqqpRy2eAqqggnvXYGC5w" href="uma://-BrqqpRy2eAqqggnvXYGC5w#-BrqqpRy2eAqqggnvXYGC5w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2jMQ8PjMEe2qVN-Nb94JYQ" name="construir_o_montar_la_aplicacion" guid="_2jMQ8PjMEe2qVN-Nb94JYQ" presentationName="Construir o montar la aplicacion" briefDescription="Se monta la aplicación sobre el servidor Azure" performedBy="_hioBMPjMEe2qVN-Nb94JYQ _qc0VAPjMEe2qVN-Nb94JYQ" mandatoryInput="_iFOigPjNEe2qVN-Nb94JYQ" output="_TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_-0agQPjMEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-hwmnMsFnopFmIbnXwzRqJQ" href="uma://-hwmnMsFnopFmIbnXwzRqJQ#-hwmnMsFnopFmIbnXwzRqJQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__SbR8PjMEe2qVN-Nb94JYQ" name="realizar_pruebas_de_despliegue" guid="__SbR8PjMEe2qVN-Nb94JYQ" presentationName="Realizar pruebas de despliegue" briefDescription="Se realizan pruebas del despliegue del software" performedBy="_hioBMPjMEe2qVN-Nb94JYQ _qc0VAPjMEe2qVN-Nb94JYQ" mandatoryInput="_iFOigPjNEe2qVN-Nb94JYQ" output="_TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_CgeiUPjNEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-AI1_XEgQeONd9HTbqwYlIg" href="uma://-AI1_XEgQeONd9HTbqwYlIg#-AI1_XEgQeONd9HTbqwYlIg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_D8aU0PjNEe2qVN-Nb94JYQ" name="desplegar_la_aplicacion" guid="_D8aU0PjNEe2qVN-Nb94JYQ" presentationName="Desplegar la aplicacion" briefDescription="Por ultimo, una vez haya pasado las pruebas de despliegue con exito se desplega formalmente la aplicación." performedBy="_hioBMPjMEe2qVN-Nb94JYQ _qc0VAPjMEe2qVN-Nb94JYQ" mandatoryInput="_iFOigPjNEe2qVN-Nb94JYQ" output="_TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_Luxd4PjNEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-oIlMSw-16vZ_mmCTaSrQxw" href="uma://-oIlMSw-16vZ_mmCTaSrQxw#-oIlMSw-16vZ_mmCTaSrQxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MgX58PjNEe2qVN-Nb94JYQ" name="depuracion_y_seguimiento_de_errores" guid="_MgX58PjNEe2qVN-Nb94JYQ" presentationName="Depuracion y seguimiento de errores" briefDescription="Como paso adicional se contempla posibles errores a futuro, asi que hace un seguimiento del software desplegado." performedBy="_hioBMPjMEe2qVN-Nb94JYQ _qc0VAPjMEe2qVN-Nb94JYQ" mandatoryInput="_iFOigPjNEe2qVN-Nb94JYQ" output="_TRlvEPjNEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_SMoSIPjNEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-_4yN3LBcRI4gi9sN73QE1A" href="uma://-_4yN3LBcRI4gi9sN73QE1A#-_4yN3LBcRI4gi9sN73QE1A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TRlvEPjNEe2qVN-Nb94JYQ" name="informe_de_despligue" guid="_TRlvEPjNEe2qVN-Nb94JYQ" presentationName="Informe de despligue" briefDescription="Documento que contiene la trazabilidad del despliegue del software, se contempla tiempos, pruebas, errores y tecnologias implementadas.">
+            <methodElementProperty xmi:id="_c3qRcPjNEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-eOOoBLUfUQngtgTEXJhPjw" href="uma://-eOOoBLUfUQngtgTEXJhPjw#-eOOoBLUfUQngtgTEXJhPjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iFOigPjNEe2qVN-Nb94JYQ" name="aplicacion_final" guid="_iFOigPjNEe2qVN-Nb94JYQ" presentationName="Aplicacion final">
+            <methodElementProperty xmi:id="_ko1uwPjNEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-RVrooiCoHtWr3bigXwX1eg" href="uma://-RVrooiCoHtWr3bigXwX1eg#-RVrooiCoHtWr3bigXwX1eg"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4XCprfjLEe2qVN-Nb94JYQ" name="CapabilityPatterns" guid="_4XCprfjLEe2qVN-Nb94JYQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4XCprvjLEe2qVN-Nb94JYQ" name="DeliveryProcesses" guid="_4XCprvjLEe2qVN-Nb94JYQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_4XCpr_jLEe2qVN-Nb94JYQ" name="ProcessContributions" guid="_4XCpr_jLEe2qVN-Nb94JYQ"/>
+    <bases href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_HxiiYPjEEe2zwfcdr7BWUQ"/>
+    <bases href="uma://_vfgTIPjJEe2zwfcdr7BWUQ#_vfgTIPjJEe2zwfcdr7BWUQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bfK8dSAa1OsQ_T3nvMLX0w" name="recopilar_datos_y_realizar_analisis,_jfAegPhBEe2Zvvfwxm6Irw" guid="-bfK8dSAa1OsQ_T3nvMLX0w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:49:44.028-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Analiss de datos para identificar las principales causas de un problema, para focalizar mayores&#xD;
+    esfuerzos en solucionarlas&amp;nbsp;&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Concer las principales causas de los problemas&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

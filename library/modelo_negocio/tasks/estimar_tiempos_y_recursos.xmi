@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4_lLCsF27SOBOf2Y50vztw" name="estimar_tiempos_y_recursos,_jNhzQPacEe2iw6e7ivTqDA" guid="-4_lLCsF27SOBOf2Y50vztw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:57:33.178-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Con el fin de ver cuanto esfuerzo conlleva y el tiempo que podria tardar, se hace un analisis con&#xD;
+    distintos modelos matematicos&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Ponderar los requerimientos&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

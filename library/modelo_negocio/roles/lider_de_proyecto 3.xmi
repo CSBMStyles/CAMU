@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-31V82HYrueVCE3p7YD4l-w" name="lider_de_proyecto,_GHuhwPacEe2iw6e7ivTqDA" guid="-31V82HYrueVCE3p7YD4l-w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-23T11:02:29.869-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Es el responsable de la gestión y supervisión del proyecto. Su papel es crucial para garantizar&#xD;
+    el éxito del proyecto, cumpliendo con los objetivos establecidos, el alcance, el presupuesto y los plazos.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Comunicacion efectiva&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Toma de decisiones&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Planificacion Organizacion&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Gestion del tiempo&lt;/font>&#xD;
+&lt;/p></skills>
+</org.eclipse.epf.uma:RoleDescription>

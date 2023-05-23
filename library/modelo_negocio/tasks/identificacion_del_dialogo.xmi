@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-P1h9lyg4XAmcIKp_0sXR0w" name="identificacion_del_dialogo,_HfpjkPg0Ee26HtDVNLdoRA" guid="-P1h9lyg4XAmcIKp_0sXR0w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:58:17.060-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Llenar todos los datos establecidos en el detalle del dialogo&#xD;
+&lt;/p></mainDescription>
+  <purpose>Diligenciar el formulario de dialogo para identificarlo</purpose>
+</org.eclipse.epf.uma:TaskDescription>

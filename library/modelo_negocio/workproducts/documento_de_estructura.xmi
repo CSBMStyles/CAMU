@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-D_W4IjHly1UOdVjyWcLNeA" name="documento_de_estructura,_6TpisPg7Ee24XvV_pHvv4A" guid="-D_W4IjHly1UOdVjyWcLNeA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:21:04.912-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documento que permite tener registro de la estructura de negocio por si hay cambios a futuro</mainDescription>
+  <purpose>Llevar trazabilidad de la estructura de los procesos</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

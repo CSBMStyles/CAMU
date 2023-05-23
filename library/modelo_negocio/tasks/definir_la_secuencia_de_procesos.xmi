@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OiYvZFQY-AD2GOg_rc2ZJQ" name="definir_la_secuencia_de_procesos,_b_eZkPg7Ee24XvV_pHvv4A" guid="-OiYvZFQY-AD2GOg_rc2ZJQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:13:34.842-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Se define la estructura u orden en que se llevan a cabo los procesos para llevar a cabo su objetivo.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Definir la secuencia de los procesos</purpose>
+</org.eclipse.epf.uma:TaskDescription>

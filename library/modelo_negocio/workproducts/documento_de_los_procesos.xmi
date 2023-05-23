@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AQIsLF48sKPxC44-0fHcJQ" name="documento_de_los_procesos,_ph4kwPgyEe26HtDVNLdoRA" guid="-AQIsLF48sKPxC44-0fHcJQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:26:21.212-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documento en donde estan identificados todos los procesos del negocio</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Llevar trazabilidad de los procesos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

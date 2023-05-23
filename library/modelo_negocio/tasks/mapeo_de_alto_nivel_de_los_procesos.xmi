@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T2MihaoWfuNm_ekTLI7vzw" name="mapeo_de_alto_nivel_de_los_procesos,_FMLqEPadEe2iw6e7ivTqDA" guid="-T2MihaoWfuNm_ekTLI7vzw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:28:12.836-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documentar&amp;nbsp;un mapeo general de los procesos en cada area funcional.</mainDescription>
+  <purpose>Mapear procesos de cada area</purpose>
+</org.eclipse.epf.uma:TaskDescription>

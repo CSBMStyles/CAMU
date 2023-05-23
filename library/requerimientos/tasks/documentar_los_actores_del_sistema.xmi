@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZIaZNFbLrXoKDXJzwHIR-w" name="documentar_los_actores_del_sistema,_zD0zoPi3Ee22NrBpPmPt7Q" guid="-ZIaZNFbLrXoKDXJzwHIR-w" authors="Pablo Bernal - Cristian Barrera - William Coy - Braian Puerta" changeDate="2023-05-22T22:31:00.869-0500" changeDescription="Primera version." version="1.0">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(15,23,42); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(252,252,252); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Permite identificar y definir los diferentes roles y responsabilidades de los usuarios finales del sistema. En esta&#xD;
+actividad, se busca documentar los actores del sistema, es decir, las personas o entidades que interactúan con el sistema y&#xD;
+que tienen un papel específico en su funcionamiento&lt;/span></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;font face=&quot;Arial&quot;>&lt;span&#xD;
+    style='FONT-SIZE: 16px; FONT-FAMILY: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(15,23,42); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(252,252,252); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Registrar los actores del sistema, para poder definir sus roles y responsabilidades en el sistema de manera clara y&#xD;
+    precisa&lt;/span>&lt;/font>&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-F2CGXFZzAdTLTE45J4KAqA" name="matriz_de_priorizacion,_JjUDcPg_Ee24XvV_pHvv4A" guid="-F2CGXFZzAdTLTE45J4KAqA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:41:42.341-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Documento que pondera todos los problemas identificados en distintas areas, con el fin de ver de&#xD;
+forma clara cuales problemas requieren un nivel mayor de atencion&lt;/font></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Priorizar los problemas segun su impacto&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

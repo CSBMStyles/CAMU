@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-icav69WFJLLibKQqO5-EhA" name="detallar_el_dilogo,_Waa5wPg0Ee26HtDVNLdoRA" guid="-icav69WFJLLibKQqO5-EhA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:55:07.408-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Interacciones y/o dependencias entre los elementos del sistema</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Detallar interacciones entre los elementos del sistema (formulario)&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

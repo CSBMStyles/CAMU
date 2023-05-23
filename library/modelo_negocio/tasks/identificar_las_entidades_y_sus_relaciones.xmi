@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DRQvSrK9uOs5JDg7LlawyA" name="identificar_las_entidades_y_sus_relaciones,_wnSt8PhCEe2Zvvfwxm6Irw" guid="-DRQvSrK9uOs5JDg7LlawyA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:30:10.875-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Representacion de las relaciones o formas en que una entidad afecta a otra, o simplemente como se&#xD;
+asocian.&lt;/font></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Ver de forma clara como interactuan las entidades.&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jR3zqT9x4nO4vN_38VdZOQ" name="identificacin_de_las_reas_funcionales,_6dc2gPacEe2iw6e7ivTqDA" guid="-jR3zqT9x4nO4vN_38VdZOQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:28:04.924-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Divide el negocio en áreas funcionales, como ventas, marketing, operaciones, recursos humanos, contabilidad, etc.</mainDescription>
+  <purpose>Dividir el negocio en area funcionales</purpose>
+</org.eclipse.epf.uma:TaskDescription>

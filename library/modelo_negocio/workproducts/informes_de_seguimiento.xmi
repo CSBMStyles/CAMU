@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oSvPEO4ye7psMiSpLRC1_Q" name="informes_de_seguimiento,_yKWwEPgqEe2pi6Y3YlDaKQ" guid="-oSvPEO4ye7psMiSpLRC1_Q" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:59:23.005-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Estadisticas o indicadores que evidencian la consecucion de los objetivos establecidos en los&#xD;
+    trabajos o actividades&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Ver progreso del trabajo&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

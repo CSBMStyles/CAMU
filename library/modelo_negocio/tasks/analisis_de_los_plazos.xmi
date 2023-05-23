@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-47hYGSo3F1cLVFBl8UcUmA" name="analisis_de_los_plazos,_In0x4PaaEe2iw6e7ivTqDA" guid="-47hYGSo3F1cLVFBl8UcUmA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:06:43.681-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Se evalua los plazos en las distintas etapas del proyecto para ver si es factible</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Identificar los plazos establecidos para las etapas del proyecto&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

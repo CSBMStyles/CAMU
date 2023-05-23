@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4MLipz86L9_GFKKKnRl7Uw" name="diagrama_de_pareto,_rAkygPhBEe2Zvvfwxm6Irw" guid="-4MLipz86L9_GFKKKnRl7Uw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:51:29.148-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Sucesion de causas ordenadas de forma descendente, desde la que mas impacto tiene hasta la que&#xD;
+    menor impacto tiene&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Identificar cuales son las principales causas de un problema&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

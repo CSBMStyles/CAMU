@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-H5oe0cHXaKwRzg1WbzMFJQ" name="determina_que_informacion_necesitas_recopilar_a_traves_del_formulario,_05R4wPabEe2iw6e7ivTqDA" guid="-H5oe0cHXaKwRzg1WbzMFJQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:04:58.835-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Identificacion de la informacion necesaria para completar correctamente el llenado del formulario&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Obtener parametros correctos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

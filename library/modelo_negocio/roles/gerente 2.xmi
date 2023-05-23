@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Z5jUFuV3czFqqY1z2MxfHA" name="gerente,_0rtowPaZEe2iw6e7ivTqDA" guid="-Z5jUFuV3czFqqY1z2MxfHA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-23T11:03:24.228-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Es quien está a cargo de la dirección y coordinación de la empresa.&lt;/font></mainDescription>
+  <skills>&lt;font face=&quot;Segoe UI&quot;>Liderazgo comunicativo paciente&lt;/font></skills>
+</org.eclipse.epf.uma:RoleDescription>

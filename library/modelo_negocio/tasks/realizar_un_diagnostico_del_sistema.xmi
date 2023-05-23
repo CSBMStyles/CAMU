@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K8qXGais7M9lfw6OFydMXg" name="realizar_un_diagnostico_del_sistema,_x4U00Pg-Ee24XvV_pHvv4A" guid="-K8qXGais7M9lfw6OFydMXg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:37:00.518-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Identificar las causas y tendencias de los problemas en distintas areas&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Determinar los principales sintomas de los problemas&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

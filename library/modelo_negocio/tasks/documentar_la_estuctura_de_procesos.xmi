@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6-vjsGQNa3fiiVQaHQSTmg" name="documentar_la_estuctura_de_procesos,_p48q0Pg7Ee24XvV_pHvv4A" guid="-6-vjsGQNa3fiiVQaHQSTmg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:15:59.898-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Documentar la estructura de&amp;nbsp;los procesos permite llevar una trazabilidad de los procesos para que posteriormente,&#xD;
+    de ser necesario, pueda ser consultada facilmente&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Llevar trazabilidad de los procesos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

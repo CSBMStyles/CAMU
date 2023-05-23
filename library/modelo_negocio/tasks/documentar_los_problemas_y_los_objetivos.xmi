@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZO6sQeARGu7A1YHUANK03w" name="documentar_los_problemas_y_los_objetivos,_EVTGcPg_Ee24XvV_pHvv4A" guid="-ZO6sQeARGu7A1YHUANK03w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-23T12:03:51.289-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Es la trazabilidad de los problemas que se identificaron o que surjan, mas lo objetivos o metas&#xD;
+    establecidas&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Tener registro de los probelmas y objetivos&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

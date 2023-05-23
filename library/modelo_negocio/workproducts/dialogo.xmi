@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gPy_JM_0l1EOngFC-m4PZg" name="dialogo,_p2J5sPg0Ee26HtDVNLdoRA" guid="-gPy_JM_0l1EOngFC-m4PZg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:01:27.984-0500" changeDescription="Primer versiono" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Documento de trazabilidad de la interaccion entre usuarios de sistema&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Observar interaccion entre usarios del sistema&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

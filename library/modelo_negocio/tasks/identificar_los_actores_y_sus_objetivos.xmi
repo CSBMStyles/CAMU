@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--zvBG43-8DBb9ftEAL3KBg" name="identificar_los_actores_y_sus_objetivos,_2G9mMPhDEe2Zvvfwxm6Irw" guid="--zvBG43-8DBb9ftEAL3KBg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:20:15.343-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Determinar quienes van a interactuar con el sistema, y cual es su proposito&amp;nbsp;u objetivo&#xD;
+realizando dichas acciones.&lt;/font>&amp;nbsp;</mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Saber quienes seran los que van a interactuar con el sistema.&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

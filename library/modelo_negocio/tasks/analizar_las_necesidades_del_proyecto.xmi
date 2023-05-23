@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-82imy7spis4fH5KtuPxpxA" name="analizar_las_necesidades_del_proyecto,_fGwSgPaZEe2iw6e7ivTqDA" guid="-82imy7spis4fH5KtuPxpxA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-23T11:39:20.248-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Definir el alcance y necesidades a resolver del proyecto a realizar, definiendo las metas y objetivos&#xD;
+a alcanzar para tener una base de donde arrancar.&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Ver cuales son las principales necesidades de la empresa a solucionar&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

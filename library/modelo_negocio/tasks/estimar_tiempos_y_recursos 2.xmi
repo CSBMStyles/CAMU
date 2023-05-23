@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N2hEgeA_BqWRqvv8yQm6wg" name="estimar_tiempos_y_recursos,_dfoU0PgnEe2pi6Y3YlDaKQ" guid="-N2hEgeA_BqWRqvv8yQm6wg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-23T12:10:06.002-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>A cada tarea se le estiman los tiempo y recursos necesarios para tener una idea de cuanto se&#xD;
+    puede tardar, o que esfuerzo puede necesitar&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Ver cuanto tiempo puede tomar la consecucion de un objetivo&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

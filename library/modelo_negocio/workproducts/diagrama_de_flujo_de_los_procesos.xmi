@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OPFQHBaDoN60n4CCBYkk7w" name="diagrama_de_flujo_de_los_procesos,_xtb60Pg7Ee24XvV_pHvv4A" guid="-OPFQHBaDoN60n4CCBYkk7w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:19:35.690-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documento que permite llevar la trazabilidad de como se realizan los procesos del negocio</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Tener registro de como se llevan a cabo los procesos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

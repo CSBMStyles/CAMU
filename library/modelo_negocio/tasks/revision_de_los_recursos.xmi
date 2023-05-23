@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I0uWkG6by38tK348chKG5g" name="revision_de_los_recursos_,_PSdd4PaaEe2iw6e7ivTqDA" guid="-I0uWkG6by38tK348chKG5g" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:06:52.864-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Establecer con que recursos se cuenta para que sean correctamente asignados a futuros integrantes del proyecto</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Identifica y asignar recursos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

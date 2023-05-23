@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xNFc9AqdLvNI5pt6uj-NMw" name="framework_zachman,_HEJJwPgoEe2pi6Y3YlDaKQ" guid="-xNFc9AqdLvNI5pt6uj-NMw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:48:17.183-0500" changeDescription="Primera version" version="1">
+  <mainDescription>Modelo conceptual que facilita la comprensión y la comunicación sobre un sistema de información, ayudando en la&#xD;
+planificación, el análisis de requisitos y el diseño de soluciones.</mainDescription>
+  <purpose>Describir y organizar los diferentes aspectos de la arquitectura empresarial</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

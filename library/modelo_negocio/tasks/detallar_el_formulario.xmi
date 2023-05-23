@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ci9mdMQFisnMMG3BGlYZUQ" name="detallar_el_formulario,__tq1APgzEe26HtDVNLdoRA" guid="-ci9mdMQFisnMMG3BGlYZUQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:57:31.274-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Establecer el formato que debe tener el formulario de dialogo</mainDescription>
+  <purpose>Detallar el contenido que debe tener el formulario</purpose>
+</org.eclipse.epf.uma:TaskDescription>

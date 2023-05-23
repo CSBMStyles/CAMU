@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nFTEXy5nCJ_oJNayqc_2iw" name="crear_un_esquema_de_pgina,_vHYnsPjBEe2zwfcdr7BWUQ" guid="-nFTEXy5nCJ_oJNayqc_2iw" authors="Pablo Bernal - Cristian Barrera - William Coy - Braian Puerta" changeDate="2023-05-23T11:14:06.525-0500" changeDescription="Primera versión " version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(209,213,219); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(68,70,84); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Es una representación gráfica y estructural de la disposición de los elementos en una página web o aplicación.&#xD;
+    Proporciona una visión general de la interfaz de usuario, incluyendo la distribución de los componentes, el flujo de&#xD;
+    navegación y la jerarquía de la información.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(209,213,219); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(68,70,84); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Comprender los requisitos funcionales , &lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(209,213,219); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(68,70,84); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Definir el estilo visual y la apariencia general de la página&lt;/span>&lt;/span> &#xD;
+&lt;p>&#xD;
+    ,&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Diseñar una estructura lógica y visual que proporcione una experiencia de usuario óptima y cumpla&#xD;
+    con los requisitos funcionales y no funcionales del proyecto&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

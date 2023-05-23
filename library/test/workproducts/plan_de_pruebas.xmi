@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mYHxhg5SgAgaEsOt4Ew1vQ" name="plan_de_pruebas,_A2D50PjLEe2qVN-Nb94JYQ" guid="-mYHxhg5SgAgaEsOt4Ew1vQ" authors="Pablo Bernal - Cristian Barrera - William Coy - Braian Puerta" changeDate="2023-05-23T00:14:31.171-0500" changeDescription="Primera version " version="1.0">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(209,213,219); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(68,70,84); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+documento que describe en detalle las actividades y estrategias que se llevarán a cabo para probar la aplicación.&#xD;
+Proporciona una guía estructurada sobre cómo se realizarán las pruebas, qué aspectos se evaluarán y los recursos necesarios&#xD;
+para llevar a cabo dichas pruebas. El objetivo principal del plan de pruebas es asegurar que la aplicación cumpla con los&#xD;
+requisitos funcionales y de calidad establecidos, y que esté lista para su implementación y uso por parte de los usuarios&#xD;
+finales.&lt;/span></mainDescription>
+  <purpose>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(209,213,219); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(68,70,84); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+garantizar el correcto funcionamiento de las funcionalidades clave, validar la usabilidad y la experiencia del usuario,&#xD;
+verificar la seguridad,&lt;/span></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QNt7CBvDFOqv2xN_are38g" name="identificar_las_habilidades_de_los_miembros_del_equipo,_jXbdgPaZEe2iw6e7ivTqDA" guid="-QNt7CBvDFOqv2xN_are38g" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:07:04.871-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Con el fin de asegurar el alcance de un requerimiento de forma correcta y con lo que se pide, se&#xD;
+identifica quién posee las habilidades para llevar a cabo ciertas tareas.&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Conocer quien tiene las capacidades para la resolución de un requisito.&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

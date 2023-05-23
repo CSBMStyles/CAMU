@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-v2dJnxMSVJYNzBz63-XiHA" name="identificar_los_elementos_relevantes,_fP72APhBEe2Zvvfwxm6Irw" guid="-v2dJnxMSVJYNzBz63-XiHA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:48:21.868-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Se listan o representa una secesion de las causas o elementos a los cuales se les debe dar un mayor&#xD;
+nivel de atencion&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Ponderar u ordenar las causas segun su impacto&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

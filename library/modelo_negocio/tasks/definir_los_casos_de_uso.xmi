@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jnBEEYakeLd8s_JTdmZqHg" name="definir_los_casos_de_uso,_4Bq_YPhDEe2Zvvfwxm6Irw" guid="-jnBEEYakeLd8s_JTdmZqHg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:18:59.097-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Herramienta que nos permite entender como interactuan los actores con los requisitos funcionales de&#xD;
+un sistema.&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Describir como interacturan los actores con el sistema.&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

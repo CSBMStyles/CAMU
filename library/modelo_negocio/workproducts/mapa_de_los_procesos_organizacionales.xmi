@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rs2dcmxof-jkf1reZQ-uQQ" name="mapa_de_los_procesos_organizacionales,_Am-YYPgwEe26HtDVNLdoRA" guid="-Rs2dcmxof-jkf1reZQ-uQQ" changeDate="2023-05-22T18:38:39.048-0500">
+  <mainDescription>Documento que mapea los procesos por cada area o dependencia del negocio.</mainDescription>
+  <purpose>Mapear procesos por area de la organizacion</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

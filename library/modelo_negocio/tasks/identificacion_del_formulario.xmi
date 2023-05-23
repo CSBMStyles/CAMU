@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h4-0v65q-oyasQ83sqsjqA" name="identificacion_del_formulario,_zKLfQPgzEe26HtDVNLdoRA" guid="-h4-0v65q-oyasQ83sqsjqA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:59:36.709-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Atributo que permita facilitar la identificacion del formulario de relaciones de dominio</mainDescription>
+  <purpose>Identificar el formulario de una forma mucho mas facil</purpose>
+</org.eclipse.epf.uma:TaskDescription>

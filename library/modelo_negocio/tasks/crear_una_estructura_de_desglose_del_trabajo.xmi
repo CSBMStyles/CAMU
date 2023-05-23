@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TddhSkt1KAMC9NS4S2VF1g" name="crear_una_estructura_de_desglose_del_trabajo,_N1fXMPgnEe2pi6Y3YlDaKQ" guid="-TddhSkt1KAMC9NS4S2VF1g" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:44:24.164-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Desglose de tareas mas pequenas y manejables para&amp;nbsp;ayudar a mejorar la comprension, la&#xD;
+    planificacion, el seguimiento y el control del trabajo&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Facilitar planificacion y seguimiento del proyecto&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

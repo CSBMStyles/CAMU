@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s2GI1PQFEvBg1k91E0yDHw" name="identificacion_de_usuarios_del_sistema,_IznlgPg3Ee24XvV_pHvv4A" guid="-s2GI1PQFEvBg1k91E0yDHw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:48:42.271-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Documento que identifica a todos los involucrados del proyecto&#xD;
+&lt;/p></mainDescription>
+  <purpose>Identificar stakeholders</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

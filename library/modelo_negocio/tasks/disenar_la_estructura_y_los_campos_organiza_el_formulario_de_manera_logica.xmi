@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-L0FFi0H-de3YPpldmdPZIA" name="disenar_la_estructura_y_los_campos_organiza_el_formulario_de_manera_logica,_4pjFYPabEe2iw6e7ivTqDA" guid="-L0FFi0H-de3YPpldmdPZIA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:05:07.191-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Organizar la entrada de los datos en el formulario con el fin de hacerlo mas entendible</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Dejar el formulario entendible&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

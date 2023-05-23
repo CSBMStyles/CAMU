@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aaM44g7NVjK1E3kwJ3k_fg" name="documento_de_problemas_y_objetivos,_QuzZwPg_Ee24XvV_pHvv4A" guid="-aaM44g7NVjK1E3kwJ3k_fg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:39:05.541-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Documento en el cual se registran los problemas y objetivos&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Tener registro de los probelmas y objetivos&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

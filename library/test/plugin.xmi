@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_vfiIUPjJEe2zwfcdr7BWUQ" guid="_vfiIUPjJEe2zwfcdr7BWUQ">
+    <resourceDescriptors xmi:id="_aspDYPklEe2vHpJ1ih__BQ" id="-V8bNHmHoVrXSxx7oQSXsIQ" uri="tasks/dar_seguimiento_a_los_errores.xmi"/>
+    <resourceDescriptors xmi:id="_hUKJ8PklEe2vHpJ1ih__BQ" id="-nD2CuKlbo4BPzF_yrN2Tmw" uri="tasks/ejecutar_el_plan_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="_oeTccPklEe2vHpJ1ih__BQ" id="-I0V0S-_oJ93oAz1n8T9j9Q" uri="tasks/evaluar_de_criterios_de_errores.xmi"/>
+    <resourceDescriptors xmi:id="_xWj2kPklEe2vHpJ1ih__BQ" id="-j2bKwCz7XzMGkoqMeyOK_A" uri="tasks/preparacion_del_entorno_de_prueba.xmi"/>
+    <resourceDescriptors xmi:id="__J3uEPkoEe2vHpJ1ih__BQ" id="-mYHxhg5SgAgaEsOt4Ew1vQ" uri="workproducts/plan_de_pruebas.xmi"/>
+    <resourceDescriptors xmi:id="__J4VIPkoEe2vHpJ1ih__BQ" id="-YT6uZFYLsP9LNMW8YL-bVA" uri="workproducts/informe_de_errores.xmi"/>
+    <resourceDescriptors xmi:id="_Nl9kMPkpEe2vHpJ1ih__BQ" id="-GXYaKiWPijeb059qwvb3og" uri="roles/desarrollador_backend.xmi"/>
+    <resourceDescriptors xmi:id="_SZchUPkpEe2vHpJ1ih__BQ" id="-dDyVlS5iixLAbCxyF8l7Sg" uri="roles/desarrollador_frontend.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_vfgTIPjJEe2zwfcdr7BWUQ" name="test" guid="_vfgTIPjJEe2zwfcdr7BWUQ" presentationName="test" briefDescription="En la presente disciplina se realiza tests de pruebas con el proposito de identifcar errores en el desarrollo del software.">
+    <methodElementProperty xmi:id="_-GfxsPjJEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTIfjJEe2zwfcdr7BWUQ" name="Content" guid="_vfgTIfjJEe2zwfcdr7BWUQ">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTIvjJEe2zwfcdr7BWUQ" name="Categories" guid="_vfgTIvjJEe2zwfcdr7BWUQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTI_jJEe2zwfcdr7BWUQ" name="Domains" guid="_vfgTI_jJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTJPjJEe2zwfcdr7BWUQ" name="Disciplines" guid="_vfgTJPjJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTJfjJEe2zwfcdr7BWUQ" name="RoleSets" guid="_vfgTJfjJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTJvjJEe2zwfcdr7BWUQ" name="WP Types" guid="_vfgTJvjJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTJ_jJEe2zwfcdr7BWUQ" name="Tools" guid="_vfgTJ_jJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTKPjJEe2zwfcdr7BWUQ" name="StandardCategories" guid="_vfgTKPjJEe2zwfcdr7BWUQ"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTKfjJEe2zwfcdr7BWUQ" name="CustomCategories" guid="_vfgTKfjJEe2zwfcdr7BWUQ">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTKvjJEe2zwfcdr7BWUQ" name="Hidden" guid="_vfgTKvjJEe2zwfcdr7BWUQ">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_vfgTK_jJEe2zwfcdr7BWUQ" name="Custom Categories" guid="_vfgTK_jJEe2zwfcdr7BWUQ"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vfgTLPjJEe2zwfcdr7BWUQ" name="CoreContent" guid="_vfgTLPjJEe2zwfcdr7BWUQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="__qOOQPjJEe2zwfcdr7BWUQ" name="realizar_pruebas_al_software" guid="__qOOQPjJEe2zwfcdr7BWUQ" presentationName="Realizar pruebas al software" briefDescription="En el presente proceso se realizan pruebas en el desarrollo del software, preparando el entorno, para luego dar un seguimiento a los errores encontrados y evaluar dichos errores.">
+          <methodElementProperty xmi:id="__qOOQfjJEe2zwfcdr7BWUQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_Mtug0PjKEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_OfRW8PjKEe2zwfcdr7BWUQ" name="desarrollador_backend" guid="_OfRW8PjKEe2zwfcdr7BWUQ" presentationName="Desarrollador Backend" briefDescription="Es un profesional que se enfoca en la creación y mantenimiento de la lógica y la funcionalidad detrás de la interfaz de usuario, se especializa en BD y servidores." responsibleFor="_K2Vr8PjLEe2qVN-Nb94JYQ _A2D50PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_U2ySoPjKEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-GXYaKiWPijeb059qwvb3og" href="uma://-GXYaKiWPijeb059qwvb3og#-GXYaKiWPijeb059qwvb3og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_VeHYYPjKEe2zwfcdr7BWUQ" name="desarrollador_frontend" guid="_VeHYYPjKEe2zwfcdr7BWUQ" presentationName="Desarrollador Frontend" briefDescription="Es un profesional que se enfoca en la creación de interfaces de usuario y la usabilidad que hay en ellas." responsibleFor="_K2Vr8PjLEe2qVN-Nb94JYQ _A2D50PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_avlSAPjKEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-dDyVlS5iixLAbCxyF8l7Sg" href="uma://-dDyVlS5iixLAbCxyF8l7Sg#-dDyVlS5iixLAbCxyF8l7Sg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jgvloPjKEe2qVN-Nb94JYQ" name="preparacion_del_entorno_de_prueba" guid="_jgvloPjKEe2qVN-Nb94JYQ" presentationName="Preparacion del entorno de prueba" briefDescription="Se realiza la preparación de un entorno de prueba para realizar los difetentes tests " performedBy="_OfRW8PjKEe2zwfcdr7BWUQ _VeHYYPjKEe2zwfcdr7BWUQ" output="_A2D50PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_qZYRYPjKEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-j2bKwCz7XzMGkoqMeyOK_A" href="uma://-j2bKwCz7XzMGkoqMeyOK_A#-j2bKwCz7XzMGkoqMeyOK_A"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_Fgh3IPjGEe2zwfcdr7BWUQ"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_6vhrUPjIEe2zwfcdr7BWUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rdSlcPjKEe2qVN-Nb94JYQ" name="ejecutar_el_plan_de_pruebas" guid="_rdSlcPjKEe2qVN-Nb94JYQ" presentationName="Ejecutar el plan de pruebas" briefDescription="Una vez se tenga el entorno de pruebas se ejecuta el plande pruebas para identificar errores." performedBy="_OfRW8PjKEe2zwfcdr7BWUQ _VeHYYPjKEe2zwfcdr7BWUQ" output="_K2Vr8PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_yCWN4PjKEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nD2CuKlbo4BPzF_yrN2Tmw" href="uma://-nD2CuKlbo4BPzF_yrN2Tmw#-nD2CuKlbo4BPzF_yrN2Tmw"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_Fgh3IPjGEe2zwfcdr7BWUQ"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_6vhrUPjIEe2zwfcdr7BWUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zDwnkPjKEe2qVN-Nb94JYQ" name="dar_seguimiento_a_los_errores" guid="_zDwnkPjKEe2qVN-Nb94JYQ" presentationName="Dar seguimiento a los errores" briefDescription="Luego se realiza un seguimiento a los errores encontrados en las pruebas." performedBy="_OfRW8PjKEe2zwfcdr7BWUQ _VeHYYPjKEe2zwfcdr7BWUQ" output="_K2Vr8PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_292ekPjKEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-V8bNHmHoVrXSxx7oQSXsIQ" href="uma://-V8bNHmHoVrXSxx7oQSXsIQ#-V8bNHmHoVrXSxx7oQSXsIQ"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_Fgh3IPjGEe2zwfcdr7BWUQ"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_6vhrUPjIEe2zwfcdr7BWUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_357FQPjKEe2qVN-Nb94JYQ" name="evaluar_de_criterios_de_errores" guid="_357FQPjKEe2qVN-Nb94JYQ" presentationName="Evaluar de criterios de errores" briefDescription="Por ultimo se evaluan los criterios de errores, generando un informa de errores." performedBy="_OfRW8PjKEe2zwfcdr7BWUQ _VeHYYPjKEe2zwfcdr7BWUQ" output="_K2Vr8PjLEe2qVN-Nb94JYQ">
+            <methodElementProperty xmi:id="_-l2KsPjKEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-I0V0S-_oJ93oAz1n8T9j9Q" href="uma://-I0V0S-_oJ93oAz1n8T9j9Q#-I0V0S-_oJ93oAz1n8T9j9Q"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_Fgh3IPjGEe2zwfcdr7BWUQ"/>
+            <mandatoryInput href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_6vhrUPjIEe2zwfcdr7BWUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A2D50PjLEe2qVN-Nb94JYQ" name="plan_de_pruebas" guid="_A2D50PjLEe2qVN-Nb94JYQ" presentationName="Plan de pruebas" briefDescription="Documento que establece el plan de pruebas durante la preparación del entorno de prueba.">
+            <methodElementProperty xmi:id="_KRDNkPjLEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-mYHxhg5SgAgaEsOt4Ew1vQ" href="uma://-mYHxhg5SgAgaEsOt4Ew1vQ#-mYHxhg5SgAgaEsOt4Ew1vQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_K2Vr8PjLEe2qVN-Nb94JYQ" name="informe_de_errores" guid="_K2Vr8PjLEe2qVN-Nb94JYQ" presentationName="Informe de errores" briefDescription="Documento que contiene la el seguimiento de los errores hayados y su estado segun el criterio que tenga">
+            <methodElementProperty xmi:id="_MIkv4PjLEe2qVN-Nb94JYQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-YT6uZFYLsP9LNMW8YL-bVA" href="uma://-YT6uZFYLsP9LNMW8YL-bVA#-YT6uZFYLsP9LNMW8YL-bVA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vfgTLfjJEe2zwfcdr7BWUQ" name="CapabilityPatterns" guid="_vfgTLfjJEe2zwfcdr7BWUQ"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vfgTLvjJEe2zwfcdr7BWUQ" name="DeliveryProcesses" guid="_vfgTLvjJEe2zwfcdr7BWUQ"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vfgTL_jJEe2zwfcdr7BWUQ" name="ProcessContributions" guid="_vfgTL_jJEe2zwfcdr7BWUQ"/>
+    <bases href="uma://_HxiiYPjEEe2zwfcdr7BWUQ#_HxiiYPjEEe2zwfcdr7BWUQ"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

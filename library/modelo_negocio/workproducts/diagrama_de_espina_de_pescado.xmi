@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Hz524GiZc9LgDY5O6H4XRg" name="diagrama_de_espina_de_pescado,_jJsLQPhAEe2Zvvfwxm6Irw" guid="-Hz524GiZc9LgDY5O6H4XRg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:37:18.943-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Un diagrama con forma de pescado que en la cabeza lleva excrito el problema, en el cuerpo tiene&#xD;
+espinas grandes en cual van ciertos tipos de causas o categorias, y en dichas espinas van espinas mas pequenas que tienen&#xD;
+las causas especificas&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Permitir analisis profundo de las causas de un problema&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qGe5S3N-Td59uydR9tHLVw" name="documentacion_de_los_procesos,_O7bWkPadEe2iw6e7ivTqDA" guid="-qGe5S3N-Td59uydR9tHLVw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:27:55.838-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Llevar trazabilidad de los procesos utilizando plantillas u otros documentos.&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Llevar registro de los procesos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

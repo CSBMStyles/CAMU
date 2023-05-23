@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8LbxvKzRRvVUa9qzoXP6kA" name="formulario_en_papel,_iFmugPg0Ee26HtDVNLdoRA" guid="-8LbxvKzRRvVUa9qzoXP6kA" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:03:54.654-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Formato que tiene el formulario que sirve como base para futuros desarrollos fronend</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Establecer el formato del formulario&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

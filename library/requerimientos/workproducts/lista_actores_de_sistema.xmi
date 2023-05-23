@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ut13bKJsjQ6wIztArTqKLg" name="lista_actores_de_sistema,_5G2GAPi3Ee22NrBpPmPt7Q" guid="-Ut13bKJsjQ6wIztArTqKLg" changeDate="2023-05-22T22:37:48.388-0500">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(15,23,42); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(252,252,252); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+Documento que contiene la información detallada sobre los diferentes actores del sistema identificados en el proceso de&#xD;
+diseño de un sistema de software, en este archivo se documentan los diferentes roles y responsabilidades de los usuarios&#xD;
+finales del sistema, así como su interacción con el sistema.&lt;/span></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style='FONT-SIZE: 16px; FONT-FAMILY: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(15,23,42); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(252,252,252); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+    Documentar permite definir los requisitos del sistema de manera más precisa y diseñar una solución que satisfaga las&#xD;
+    necesidades y expectativas de los usuarios de manera efectiva.&lt;/span>&lt;/font>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

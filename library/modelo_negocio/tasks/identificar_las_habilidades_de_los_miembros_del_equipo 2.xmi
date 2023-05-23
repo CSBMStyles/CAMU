@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b62m2WZ_fiYGyyXWSwf85g" name="identificar_las_habilidades_de_los_miembros_del_equipo,_ihh60PaaEe2iw6e7ivTqDA" guid="-b62m2WZ_fiYGyyXWSwf85g" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:58:04.984-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Se debe identificar todas las habilidades que posea una persona para poder asignarla a un equipo de trabajos con el fin de&#xD;
+que puedan llevar a cabo correctamente su trabajo</mainDescription>
+  <purpose>Establecer las capacidades de los integrantes de cada equipo de trabajo</purpose>
+</org.eclipse.epf.uma:TaskDescription>

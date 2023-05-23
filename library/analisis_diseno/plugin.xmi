@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_rChIQPi6Ee22NrBpPmPt7Q" guid="_rChIQPi6Ee22NrBpPmPt7Q">
+    <resourceDescriptors xmi:id="_PKzmoPkfEe2vHpJ1ih__BQ" id="-nFTEXy5nCJ_oJNayqc_2iw" uri="tasks/crear_un_esquema_de_pagina.xmi"/>
+    <resourceDescriptors xmi:id="_rBq_0PkfEe2vHpJ1ih__BQ" id="-HcFH6BZ1rYRzvz7tY6lGJw" uri="tasks/disenar_la_interfaz_de_usuario_mockups.xmi"/>
+    <resourceDescriptors xmi:id="_JoSj0PkgEe2vHpJ1ih__BQ" id="-4QYEu1PF0F5Fnt--6pIHBA" uri="tasks/identificar_los_requisitos_del_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_ns8qQPkgEe2vHpJ1ih__BQ" id="-3-yjHLJrPHGf7b7A3GbzKA" uri="tasks/disenar_el_diagrama_de_clases.xmi"/>
+    <resourceDescriptors xmi:id="_P4m14PkhEe2vHpJ1ih__BQ" id="-JkBGUy-PnaoQ7qDHbPkdng" uri="tasks/identificar_las_conexiones_y_los_atributos.xmi"/>
+    <resourceDescriptors xmi:id="_3B_sMPkhEe2vHpJ1ih__BQ" id="-yvHDWgGAs0SRsK31fZaQpw" uri="tasks/validar_el_diagrama.xmi"/>
+    <resourceDescriptors xmi:id="_K3_mQPkiEe2vHpJ1ih__BQ" id="-mdkyQKGUusD7UZ6zMrX29w" uri="tasks/crear_el_diagrama_de_comunicacion.xmi"/>
+    <resourceDescriptors xmi:id="_ZNly0PkiEe2vHpJ1ih__BQ" id="-fQiT51g6pZ8cpZ4RxhNdUA" uri="tasks/crear_flujos_de_comunicacion.xmi"/>
+    <resourceDescriptors xmi:id="_-RJlEPkiEe2vHpJ1ih__BQ" id="-DklbcGVPOlAywzZxm1-O2g" uri="tasks/identificar_las_clases_y_sus_metodos.xmi"/>
+    <resourceDescriptors xmi:id="_RQFUQPkjEe2vHpJ1ih__BQ" id="-lFEmy9V4ZLQYF4AtBEXknw" uri="tasks/validar_diagrama.xmi"/>
+    <resourceDescriptors xmi:id="_Tg4SMPkjEe2vHpJ1ih__BQ" id="-DrAOQv2LXk9m9iCsJzQCxQ" uri="tasks/validar_diagrama%202.xmi"/>
+    <resourceDescriptors xmi:id="__aufcPkmEe2vHpJ1ih__BQ" id="-UkiLuqh5hAbYMXsU4ad0iQ" uri="workproducts/interfaces_de_usuario_o_mockups.xmi"/>
+    <resourceDescriptors xmi:id="_IHFLkPknEe2vHpJ1ih__BQ" id="-lA7Ny6LahFP30Rq2VWtXtg" uri="workproducts/wireframe.xmi"/>
+    <resourceDescriptors xmi:id="_PtimoPknEe2vHpJ1ih__BQ" id="-vOTLAZPHHPrcgwiodFjA9Q" uri="workproducts/diagrama_de_clases.xmi"/>
+    <resourceDescriptors xmi:id="_m76KsPknEe2vHpJ1ih__BQ" id="-9Um376LmhHt0bdSB0L1pCQ" uri="workproducts/diagrama_de_secuencias.xmi"/>
+    <resourceDescriptors xmi:id="_v7wakPknEe2vHpJ1ih__BQ" id="-Q38x54cfVpBNtVTEZdj5iQ" uri="workproducts/diagrama_de_secuencias%202.xmi"/>
+    <resourceDescriptors xmi:id="_qqecQPkpEe2vHpJ1ih__BQ" id="-fK9pPumDu7fb-BCXv5n2CQ" uri="roles/arquitecto_de_sw.xmi"/>
+    <resourceDescriptors xmi:id="_tbEUkPkpEe2vHpJ1ih__BQ" id="-CQlcYchzI4Q25dcKHEp4dA" uri="roles/arquitecto_de_sw%202.xmi"/>
+    <resourceDescriptors xmi:id="_tbE7oPkpEe2vHpJ1ih__BQ" id="-W5kmdhsz9FjPgGQ3Z3W0cA" uri="roles/arquitecto_de_sw%203.xmi"/>
+    <resourceDescriptors xmi:id="_MThO0Pl_Ee2CEa24_vqYIg" id="-1vU1qD8enLwQC3EPC-MjPQ" uri="roles/arquitecto_de_sw%204.xmi"/>
+    <resourceDescriptors xmi:id="_sy9t8PmFEe2CEa24_vqYIg" id="-pepQtzZIK4fahVOUDQ__hg" uri="tasks/identificar_las_relaciones_entre_las_concreciones.xmi"/>
+    <resourceDescriptors xmi:id="_gCoZkPmGEe2CEa24_vqYIg" id="-toALqIkiYpkMWcdp6jLsdQ" uri="tasks/comprender_los_casos_de_uso.xmi"/>
+    <resourceDescriptors xmi:id="_vDDr0PmGEe2CEa24_vqYIg" id="-b1j7JuutDmEQd0PU90gNoA" uri="tasks/crear_el_diagrama_de_secuencia.xmi"/>
+    <resourceDescriptors xmi:id="_8IG2gPmGEe2CEa24_vqYIg" id="-pYhvmayZtl5u2Os7l8ZgHQ" uri="tasks/identificar_las_clases_y_sus_metodos%202.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_rCfTEPi6Ee22NrBpPmPt7Q" name="analisis_diseno" guid="_rCfTEPi6Ee22NrBpPmPt7Q" presentationName="analisis_diseno" briefDescription="La presente disciplina se enfoca en comprender, modelar y definir los requisitos de un sistema de software, así como en diseñar la arquitectura, la estructura y sus componentes de software.">
+    <methodElementProperty xmi:id="_IUTnUPi7Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTEfi6Ee22NrBpPmPt7Q" name="Content" guid="_rCfTEfi6Ee22NrBpPmPt7Q">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTEvi6Ee22NrBpPmPt7Q" name="Categories" guid="_rCfTEvi6Ee22NrBpPmPt7Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTE_i6Ee22NrBpPmPt7Q" name="Domains" guid="_rCfTE_i6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTFPi6Ee22NrBpPmPt7Q" name="Disciplines" guid="_rCfTFPi6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTFfi6Ee22NrBpPmPt7Q" name="RoleSets" guid="_rCfTFfi6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTFvi6Ee22NrBpPmPt7Q" name="WP Types" guid="_rCfTFvi6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTF_i6Ee22NrBpPmPt7Q" name="Tools" guid="_rCfTF_i6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTGPi6Ee22NrBpPmPt7Q" name="StandardCategories" guid="_rCfTGPi6Ee22NrBpPmPt7Q"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTGfi6Ee22NrBpPmPt7Q" name="CustomCategories" guid="_rCfTGfi6Ee22NrBpPmPt7Q">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTGvi6Ee22NrBpPmPt7Q" name="Hidden" guid="_rCfTGvi6Ee22NrBpPmPt7Q">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_rCfTG_i6Ee22NrBpPmPt7Q" name="Custom Categories" guid="_rCfTG_i6Ee22NrBpPmPt7Q"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_rCfTHPi6Ee22NrBpPmPt7Q" name="CoreContent" guid="_rCfTHPi6Ee22NrBpPmPt7Q">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_J-YjgPi7Ee22NrBpPmPt7Q" name="disenar_diagrama_de_clases" guid="_J-YjgPi7Ee22NrBpPmPt7Q" presentationName="Disenar diagrama de clases" briefDescription="En el presente proceso se identifican los atributos y concreciones y las relaciones que hay entre ellas, además se diseña el diagrama de clases y por ultimo se valida">
+          <methodElementProperty xmi:id="_J-ZxoPi7Ee22NrBpPmPt7Q" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_dUGbAPi7Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_7dROAPi7Ee22NrBpPmPt7Q" name="arquitecto_de_sw" guid="_7dROAPi7Ee22NrBpPmPt7Q" presentationName="Arquitecto de software" briefDescription="Es el encargado de diseñar y estructurar la arquitectura del sistema de software" responsibleFor="_so6zcPi8Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_9IeyoPi7Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-CQlcYchzI4Q25dcKHEp4dA" href="uma://-CQlcYchzI4Q25dcKHEp4dA#-CQlcYchzI4Q25dcKHEp4dA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-JRhQPi7Ee22NrBpPmPt7Q" name="identificar_las_conexiones_y_los_atributos" guid="_-JRhQPi7Ee22NrBpPmPt7Q" presentationName="Identificar las conexiones y los atributos" briefDescription="se identifican las concreaciones y atributos que son requisitos del sistema" performedBy="_7dROAPi7Ee22NrBpPmPt7Q" output="_so6zcPi8Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_B_jPQPi8Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-JkBGUy-PnaoQ7qDHbPkdng" href="uma://-JkBGUy-PnaoQ7qDHbPkdng#-JkBGUy-PnaoQ7qDHbPkdng"/>
+            <mandatoryInput href="uma://_KNvKYPhIEe2Zvvfwxm6Irw#_5G2GAPi3Ee22NrBpPmPt7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UcWhwPi8Ee22NrBpPmPt7Q" name="identificar_las_relaciones_entre_las_concreciones" guid="_UcWhwPi8Ee22NrBpPmPt7Q" presentationName="Identificar las relaciones entre las concreciones" briefDescription="Una vez identificadas la concreciones se establecen las relaciones" performedBy="_7dROAPi7Ee22NrBpPmPt7Q" output="_so6zcPi8Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_bAQToPi8Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pepQtzZIK4fahVOUDQ__hg" href="uma://-pepQtzZIK4fahVOUDQ__hg#-pepQtzZIK4fahVOUDQ__hg"/>
+            <mandatoryInput href="uma://_KNvKYPhIEe2Zvvfwxm6Irw#_5G2GAPi3Ee22NrBpPmPt7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cSTKUPi8Ee22NrBpPmPt7Q" name="disenar_el_diagrama_de_clases" guid="_cSTKUPi8Ee22NrBpPmPt7Q" presentationName="Disenar el diagrama de clases" briefDescription="Por ultimo se realiza el diagrama de clases" performedBy="_7dROAPi7Ee22NrBpPmPt7Q" output="_so6zcPi8Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_di0aMPjAEe22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-3-yjHLJrPHGf7b7A3GbzKA" href="uma://-3-yjHLJrPHGf7b7A3GbzKA#-3-yjHLJrPHGf7b7A3GbzKA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hcXbcPi8Ee22NrBpPmPt7Q" name="validar_el_diagrama" guid="_hcXbcPi8Ee22NrBpPmPt7Q" presentationName="Validar el diagrama" briefDescription="Corroborar el diagrama, para que cumpla con las necesidades" performedBy="_7dROAPi7Ee22NrBpPmPt7Q" output="_so6zcPi8Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_rSuckPi8Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-yvHDWgGAs0SRsK31fZaQpw" href="uma://-yvHDWgGAs0SRsK31fZaQpw#-yvHDWgGAs0SRsK31fZaQpw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_so6zcPi8Ee22NrBpPmPt7Q" name="diagrama_de_clases" guid="_so6zcPi8Ee22NrBpPmPt7Q" presentationName="Diagrama de clases" briefDescription="Es un modelo que establece las entidades (y sus atributos) y actores implicados del sistemas">
+            <methodElementProperty xmi:id="_2Q72kPi8Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-vOTLAZPHHPrcgwiodFjA9Q" href="uma://-vOTLAZPHHPrcgwiodFjA9Q#-vOTLAZPHHPrcgwiodFjA9Q"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_VNlU8Pi9Ee22NrBpPmPt7Q" name="realizar_diagrama_de_secuencia" guid="_VNlU8Pi9Ee22NrBpPmPt7Q" presentationName="Realizar diagrama de secuencia" briefDescription="En el presente proceso se comprenden los casos de uso, luego se identifican sus clases y metodos, para finalmente crear el diagrama de secuencias">
+          <methodElementProperty xmi:id="_VNl8APi9Ee22NrBpPmPt7Q" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_fKrQMPi9Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gOL7oPi9Ee22NrBpPmPt7Q" name="arquitecto_de_sw" guid="_gOL7oPi9Ee22NrBpPmPt7Q" presentationName="Arquitecto de software" briefDescription="Es el encargado de diseñar y estructurar la arquitectura del sistema de software" responsibleFor="_d-oeYPi-Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_jeVdwPi9Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-W5kmdhsz9FjPgGQ3Z3W0cA" href="uma://-W5kmdhsz9FjPgGQ3Z3W0cA#-W5kmdhsz9FjPgGQ3Z3W0cA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mr1UgPi9Ee22NrBpPmPt7Q" name="comprender_los_casos_de_uso" guid="_mr1UgPi9Ee22NrBpPmPt7Q" presentationName="Comprender los casos de uso" briefDescription="Se interpretan los casos de uso para poder determinar su secuencia." performedBy="_gOL7oPi9Ee22NrBpPmPt7Q" output="_d-oeYPi-Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_tlWxEPi9Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-toALqIkiYpkMWcdp6jLsdQ" href="uma://-toALqIkiYpkMWcdp6jLsdQ#-toALqIkiYpkMWcdp6jLsdQ"/>
+            <mandatoryInput href="uma://_KNvKYPhIEe2Zvvfwxm6Irw#_mVfN4Pi5Ee22NrBpPmPt7Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vwADsPi9Ee22NrBpPmPt7Q" name="identificar_las_clases_y_sus_metodos" guid="_vwADsPi9Ee22NrBpPmPt7Q" presentationName="Identificar las clases y sus metodos" briefDescription="En esta tarea se idenfician las clases implicadas las cuales podrian tener una secuencia de procesos, ademas se toma en cuenta sus metodos." performedBy="_gOL7oPi9Ee22NrBpPmPt7Q" mandatoryInput="_so6zcPi8Ee22NrBpPmPt7Q" output="_d-oeYPi-Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_w5olQPi9Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-pYhvmayZtl5u2Os7l8ZgHQ" href="uma://-pYhvmayZtl5u2Os7l8ZgHQ#-pYhvmayZtl5u2Os7l8ZgHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8KRzEPi9Ee22NrBpPmPt7Q" name="crear_el_diagrama_de_secuencia" guid="_8KRzEPi9Ee22NrBpPmPt7Q" presentationName="Crear el diagrama de secuencia" briefDescription="Apartir de la información anteriormente suministrada se crea el diagrama de secuencia." performedBy="_gOL7oPi9Ee22NrBpPmPt7Q" output="_d-oeYPi-Ee22NrBpPmPt7Q">
+            <methodElementProperty xmi:id="_c6BmwPi-Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-b1j7JuutDmEQd0PU90gNoA" href="uma://-b1j7JuutDmEQd0PU90gNoA#-b1j7JuutDmEQd0PU90gNoA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d-oeYPi-Ee22NrBpPmPt7Q" name="diagrama_de_secuencias" guid="_d-oeYPi-Ee22NrBpPmPt7Q" presentationName="Diagrama de secuencias" briefDescription="Es una herramienta que representa las interacciones entre objetos o componentes en un sistema a lo largo del tiempo. ">
+            <methodElementProperty xmi:id="_emXMwPi-Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-Q38x54cfVpBNtVTEZdj5iQ" href="uma://-Q38x54cfVpBNtVTEZdj5iQ#-Q38x54cfVpBNtVTEZdj5iQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_TgOK4PkjEe2vHpJ1ih__BQ" name="validar_diagrama" guid="_TgOK4PkjEe2vHpJ1ih__BQ" presentationName="Validar diagrama" briefDescription="Como paso adicional se valida el diagrama." performedBy="_i3KeIPi_Ee22NrBpPmPt7Q" output="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_Tg118PkjEe2vHpJ1ih__BQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-DrAOQv2LXk9m9iCsJzQCxQ" href="uma://-DrAOQv2LXk9m9iCsJzQCxQ#-DrAOQv2LXk9m9iCsJzQCxQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_UCg-EPi_Ee22NrBpPmPt7Q" name="realizar_diagrama_de_comunicacion_entre_clases" guid="_UCg-EPi_Ee22NrBpPmPt7Q" presentationName="Realizar diagrama de comunicacion entre clases" briefDescription="En el presente proceso se identifican las clases y metodos, se crean los flujos de comunicación,, posteriomente se crea el diagrama y como paso adicional se valida el diagrama">
+          <methodElementProperty xmi:id="_UCizQPi_Ee22NrBpPmPt7Q" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_U2bHQPi_Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_i3KeIPi_Ee22NrBpPmPt7Q" name="arquitecto_de_sw" guid="_i3KeIPi_Ee22NrBpPmPt7Q" presentationName="Arquitecto de software" briefDescription="Es el encargado de diseñar y estructurar la arquitectura del sistema de software" responsibleFor="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_mgjmsPi_Ee22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-fK9pPumDu7fb-BCXv5n2CQ" href="uma://-fK9pPumDu7fb-BCXv5n2CQ#-fK9pPumDu7fb-BCXv5n2CQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9CbRIPi_Ee22NrBpPmPt7Q" name="identificar_las_clases_y_sus_metodos" guid="_9CbRIPi_Ee22NrBpPmPt7Q" presentationName="Identificar las clases y sus metodos" briefDescription="Se identifican las clases que potencialmente tengan comunicación con otras, ademas se toma en cuenta sus metodos." performedBy="_i3KeIPi_Ee22NrBpPmPt7Q" mandatoryInput="_so6zcPi8Ee22NrBpPmPt7Q" output="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_D1fgYPjAEe22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-DklbcGVPOlAywzZxm1-O2g" href="uma://-DklbcGVPOlAywzZxm1-O2g#-DklbcGVPOlAywzZxm1-O2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EY4hUPjAEe22NrBpPmPt7Q" name="crear_flujos_de_comunicacion" guid="_EY4hUPjAEe22NrBpPmPt7Q" presentationName="Crear flujos de comunicacion" briefDescription="Una vez identicadas las clases se crean los flujos de comunicación que hay entre ellas de manera cohrente." performedBy="_i3KeIPi_Ee22NrBpPmPt7Q" output="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_Kp3XMPjAEe22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-fQiT51g6pZ8cpZ4RxhNdUA" href="uma://-fQiT51g6pZ8cpZ4RxhNdUA#-fQiT51g6pZ8cpZ4RxhNdUA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Lcz3EPjAEe22NrBpPmPt7Q" name="crear_el_diagrama_de_comunicacion" guid="_Lcz3EPjAEe22NrBpPmPt7Q" presentationName="Crear el diagrama de comunicacion" briefDescription="Por ultimo, con la información anteriormente recopilada se crea el diagrama de comunicación " performedBy="_i3KeIPi_Ee22NrBpPmPt7Q" output="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_T-bS0PjAEe22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-mdkyQKGUusD7UZ6zMrX29w" href="uma://-mdkyQKGUusD7UZ6zMrX29w#-mdkyQKGUusD7UZ6zMrX29w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_WOROgPjAEe22NrBpPmPt7Q" name="validar_diagrama" guid="_WOROgPjAEe22NrBpPmPt7Q" presentationName="Validar diagrama" briefDescription="Como paso adicional se valida el diagrama." performedBy="_i3KeIPi_Ee22NrBpPmPt7Q" output="_07hmAPjAEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_Wqc0MPjAEe22NrBpPmPt7Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-lFEmy9V4ZLQYF4AtBEXknw" href="uma://-lFEmy9V4ZLQYF4AtBEXknw#-lFEmy9V4ZLQYF4AtBEXknw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_07hmAPjAEe2zwfcdr7BWUQ" name="diagrama_de_secuencias" guid="_07hmAPjAEe2zwfcdr7BWUQ" presentationName="Diagrama de secuencias" briefDescription="Es una representación visual que muestra la interacción y el orden temporal de objetos o componentes del sistema.">
+            <methodElementProperty xmi:id="_2ZGXQPjAEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-9Um376LmhHt0bdSB0L1pCQ" href="uma://-9Um376LmhHt0bdSB0L1pCQ#-9Um376LmhHt0bdSB0L1pCQ"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_SveW8PjBEe2zwfcdr7BWUQ" name="definir_interfaces_de_usuario" guid="_SveW8PjBEe2zwfcdr7BWUQ" presentationName="Definir interfaces de usuario" briefDescription="En el presente proceso se identifican los requisitos del cliente, se crea una esquema y por utlimo se diseña la interfaz de usuario (mockups)">
+          <methodElementProperty xmi:id="_Sve-APjBEe2zwfcdr7BWUQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_TLHxIPjBEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V9MQIPjBEe2zwfcdr7BWUQ" name="arquitecto_de_sw" guid="_V9MQIPjBEe2zwfcdr7BWUQ" presentationName="Arquitecto de software" briefDescription="Encargado de diseñar y estructurar la arquitectura del sistema de software" responsibleFor="_TUkyoPjCEe2zwfcdr7BWUQ _CjR_sPjCEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_WaOxcPjBEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1vU1qD8enLwQC3EPC-MjPQ" href="uma://-1vU1qD8enLwQC3EPC-MjPQ#-1vU1qD8enLwQC3EPC-MjPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lHIDsPjBEe2zwfcdr7BWUQ" name="identificar_los_requisitos_del_usuario" guid="_lHIDsPjBEe2zwfcdr7BWUQ" presentationName="Identificar los requisitos del usuario" briefDescription="Se identifican los requisito del cliente" performedBy="_V9MQIPjBEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_mEfq4PjBEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-4QYEu1PF0F5Fnt--6pIHBA" href="uma://-4QYEu1PF0F5Fnt--6pIHBA#-4QYEu1PF0F5Fnt--6pIHBA"/>
+            <mandatoryInput href="uma://_KNvKYPhIEe2Zvvfwxm6Irw#_N5jC4PhKEe2Zvvfwxm6Irw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vHYnsPjBEe2zwfcdr7BWUQ" name="crear_un_esquema_de_pagina" guid="_vHYnsPjBEe2zwfcdr7BWUQ" presentationName="Crear un esquema de pagina" briefDescription="Se crea un esquema de pagina donde se establece que desea el cliente" performedBy="_V9MQIPjBEe2zwfcdr7BWUQ" output="_CjR_sPjCEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_15-V0PjBEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nFTEXy5nCJ_oJNayqc_2iw" href="uma://-nFTEXy5nCJ_oJNayqc_2iw#-nFTEXy5nCJ_oJNayqc_2iw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3OM90PjBEe2zwfcdr7BWUQ" name="disenar_la_interfaz_de_usuario_mockups" guid="_3OM90PjBEe2zwfcdr7BWUQ" presentationName="Disenar la interfaz de usuario (mockups)" briefDescription="Por ultimo se realiza un prototipado de lo desado por el cliente, segun las especificaciones anteriormente suministradas (mockups)" performedBy="_V9MQIPjBEe2zwfcdr7BWUQ" output="_TUkyoPjCEe2zwfcdr7BWUQ">
+            <methodElementProperty xmi:id="_Bh1JwPjCEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-HcFH6BZ1rYRzvz7tY6lGJw" href="uma://-HcFH6BZ1rYRzvz7tY6lGJw#-HcFH6BZ1rYRzvz7tY6lGJw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CjR_sPjCEe2zwfcdr7BWUQ" name="wireframe" guid="_CjR_sPjCEe2zwfcdr7BWUQ" presentationName="Wireframe" briefDescription="Es una representación esquematica la cual muestra la estructura, el diseño y la disposición de los elementos de la interfaz, sin incluir detalles visuales o de diseño gráfico">
+            <methodElementProperty xmi:id="_DFBa0PjCEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-lA7Ny6LahFP30Rq2VWtXtg" href="uma://-lA7Ny6LahFP30Rq2VWtXtg#-lA7Ny6LahFP30Rq2VWtXtg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_TUkyoPjCEe2zwfcdr7BWUQ" name="interfaces_de_usuario_o_mockups" guid="_TUkyoPjCEe2zwfcdr7BWUQ" presentationName="Interfaces de usuario o mockups" briefDescription="Es el prototipado visual mas cercano al producto final">
+            <methodElementProperty xmi:id="_XwVMQPjCEe2zwfcdr7BWUQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-UkiLuqh5hAbYMXsU4ad0iQ" href="uma://-UkiLuqh5hAbYMXsU4ad0iQ#-UkiLuqh5hAbYMXsU4ad0iQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rCfTHfi6Ee22NrBpPmPt7Q" name="CapabilityPatterns" guid="_rCfTHfi6Ee22NrBpPmPt7Q"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rCfTHvi6Ee22NrBpPmPt7Q" name="DeliveryProcesses" guid="_rCfTHvi6Ee22NrBpPmPt7Q"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_rCfTH_i6Ee22NrBpPmPt7Q" name="ProcessContributions" guid="_rCfTH_i6Ee22NrBpPmPt7Q"/>
+    <bases href="uma://_e1DT8PaYEe2iw6e7ivTqDA#_e1DT8PaYEe2iw6e7ivTqDA"/>
+    <bases href="uma://_KNvKYPhIEe2Zvvfwxm6Irw#_KNvKYPhIEe2Zvvfwxm6Irw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

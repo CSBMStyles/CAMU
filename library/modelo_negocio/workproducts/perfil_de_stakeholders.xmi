@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HdyE6QFlmxxVxmDr18GuuQ" name="perfil_de_stakeholders,_08Mq8Pg9Ee24XvV_pHvv4A" guid="-HdyE6QFlmxxVxmDr18GuuQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:43:21.884-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documento que identifica a los stakeholders, con su nivel de toma de decisiones en el proyecto</mainDescription>
+  <purpose>Identificar a los stakeholders</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

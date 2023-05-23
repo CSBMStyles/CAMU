@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lmrq0U0iKzocgGr_sLwV4g" name="ponderar_nivel_de_participacion_en_la_toma_de_decisiones,_UmdSsPg9Ee24XvV_pHvv4A" guid="-lmrq0U0iKzocgGr_sLwV4g" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:43:08.834-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Establecer el nivel de toma de decisicion y participacion de los stakeholders en el proyecto&#xD;
+&lt;/p></mainDescription>
+  <purpose>Identificar nivel de decision de los stakeholders</purpose>
+</org.eclipse.epf.uma:TaskDescription>

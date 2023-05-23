@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n1mPskn_s4HYmb38GWKpxg" name="realizar_un_anlisis_de_stakeholders,_sNzREPg1Ee26HtDVNLdoRA" guid="-n1mPskn_s4HYmb38GWKpxg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:48:19.988-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Identificar todas las caracteristicas de los stakeholders que tienen un mayor impacto en el sistema</mainDescription>
+  <purpose>Conocer caracteristicas de los stakeholders clave</purpose>
+</org.eclipse.epf.uma:TaskDescription>

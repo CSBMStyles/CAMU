@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-53je022o53sR85zVinO9wg" name="matrices_de_reglas,_lE_OsPadEe2iw6e7ivTqDA" guid="-53je022o53sR85zVinO9wg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:24:05.829-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Actividad que consiste en crear una estructura de datos tabular utilizada para representar y organizar reglas de negocio de&#xD;
+manera clara y concisa</mainDescription>
+  <purpose>Facilitar comprension de las reglas</purpose>
+</org.eclipse.epf.uma:TaskDescription>

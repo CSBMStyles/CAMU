@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fcG_7wRI6LXC2OESDSbopw" name="diagrama_de_comunicacion,_4LQuUPhFEe2Zvvfwxm6Irw" guid="-fcG_7wRI6LXC2OESDSbopw" changeDate="2023-05-22T17:17:37.340-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Diagrama que respresenta una base solida para la comunicacion efectiva y eficiente en el&#xD;
+    proyecto&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Establecer los canales de comunicacion&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OuB7yv5IXxFk7PvYPv3zPQ" name="identificacion_de_riesgos,_R7Yn8PaaEe2iw6e7ivTqDA" guid="-OuB7yv5IXxFk7PvYPv3zPQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:15:27.809-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Documentacion de posibles riesgos para evitar danos de gran magnitud a futuro&#xD;
+&lt;/p></mainDescription>
+  <purpose>Identificar posibles contratiempos</purpose>
+</org.eclipse.epf.uma:TaskDescription>

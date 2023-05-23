@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-By1Vqx0sLBPufW-Pjwy6dg" name="matriz_de_analisis_de_riesgos_,_idWFoPgfEe2J7JYu7-oe7Q" guid="-By1Vqx0sLBPufW-Pjwy6dg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T19:07:04.501-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Ordenas los riegos de forma descendente del que mayor impacto puede tener al menor</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Priorizar riesgos&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X6CKtgUf_1Bdg_oCMcJ81w" name="diagrama_de_dominio,_2aW4wPhCEe2Zvvfwxm6Irw" guid="-X6CKtgUf_1Bdg_oCMcJ81w" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:33:51.199-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>El diagrama de dominio como estan relacionadas entre si con atributos, que representan conceptos u&#xD;
+propiedades de una entidad.&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Representar conceptos, reglas, relaciones&amp;nbsp;entre los distintos elementos&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

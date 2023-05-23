@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Rx8es3nnoxzfdGM2VcjhiQ" name="crear_el_diagrama_de_dominio,_zNn3APhCEe2Zvvfwxm6Irw" guid="-Rx8es3nnoxzfdGM2VcjhiQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:27:47.133-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Clases que estan relacionadas entre si con atributos, que representan conceptos u propiedades de una&#xD;
+entidad.&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Representar conceptos, reglas, relaciones&amp;nbsp;entre los distintos elementos&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>

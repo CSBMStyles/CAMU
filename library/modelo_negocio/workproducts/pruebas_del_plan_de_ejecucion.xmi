@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S2r27ijmz8c94zaOiU1VeQ" name="pruebas_del_plan_de_ejecucion,_cu-PwPguEe2pi6Y3YlDaKQ" guid="-S2r27ijmz8c94zaOiU1VeQ" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T17:03:23.746-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;font face=&quot;Segoe UI&quot;>Estructura de pruebas que&amp;nbsp;se llevan a cabo para garantizar que el plan de ejecucion y&#xD;
+completitudp de los objetivos del proyecto&lt;/font></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Validar y verificar la eficacia de un plan de trabajo&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

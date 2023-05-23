@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IAHiyFfYerd5hBLQ8Au97Q" name="diagrama_de_gantt,_yqCYsPgJEe2J7JYu7-oe7Q" guid="-IAHiyFfYerd5hBLQ8Au97Q" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:10:34.636-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Un diagrama representado mediante una red de flechas en las que se muestra el orden en que se&#xD;
+    deben de llevar a cabo ciertas actividades, y de que dependen con el fin de mostrar una secuencia de trabajo.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Comunicar de manera efectiva las relaciones entre las tareas del proyecto.&lt;/font></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cNwQjWHaMZKs-SGLLBz1Xw" name="analizar_los_requisitos_del_sistema,_9VLPcPg6Ee24XvV_pHvv4A" guid="-cNwQjWHaMZKs-SGLLBz1Xw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:10:45.489-0500" changeDescription="Primer version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    Identificacion de los usos que puede tener el sistema (funcionalidad) como metodos o caracteristicas con las que debe&#xD;
+    cumplir&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Identificar requisitos funcionales del sistema y no funcionales&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

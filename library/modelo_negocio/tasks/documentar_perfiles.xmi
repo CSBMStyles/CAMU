@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b3MCzb3HCWTSu-5PDeodHw" name="documentar_perfiles,_tk8wkPg9Ee24XvV_pHvv4A" guid="-b3MCzb3HCWTSu-5PDeodHw" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T18:42:50.726-0500" changeDescription="Primer version" version="1">
+  <mainDescription>Documentacion de los perfiles de todos&amp;nbsp;los involucrados en el proyecto</mainDescription>
+  <purpose>&lt;p>&#xD;
+    Documentar perfiles de los stakeholders&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

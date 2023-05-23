@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8sz40I6qWr_2PQXZPDPbAg" name="evaluar_la_carga_de_trabajo,_nfvWsPaZEe2iw6e7ivTqDA" guid="-8sz40I6qWr_2PQXZPDPbAg" authors="Pablo Bernal Cristian Barrera William Coy Braian Puerta" changeDate="2023-05-22T16:05:02.703-0500" changeDescription="Primera version" version="1">
+  <mainDescription>&lt;p>&#xD;
+    &lt;font face=&quot;Segoe UI&quot;>Establecer un volumen de trabajo entregable en un plazo de tiempo definido, a cada rol o&#xD;
+    integrante con el fin de garantizar su entrega.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;font face=&quot;Segoe UI&quot;>Determinar la cantidad de trabajo asignado a un rol&lt;/font></purpose>
+</org.eclipse.epf.uma:TaskDescription>
